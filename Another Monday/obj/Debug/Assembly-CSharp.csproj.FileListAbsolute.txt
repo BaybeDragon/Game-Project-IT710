@@ -1,0 +1,225 @@
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\obj\Debug\Assembly-CSharp.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Game Project\Another Monday\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Josiah Lietze\Desktop\Game dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Josiah Lietze\Desktop\Game dev\Game Project\Another Monday\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Josiah Lietze\Desktop\Game dev\Game Project\Another Monday\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Josiah Lietze\Desktop\Game dev\Game Project\Another Monday\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Josiah Lietze\Desktop\Game dev\Game Project\Another Monday\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Josiah Lietze\Desktop\Game dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Josiah Lietze\Desktop\Game dev\Game Project\Another Monday\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\obj\Debug\Assembly-CSharp.dll
+C:\Users\Josiah Lietze\Desktop\Game Dev\Another Monday\obj\Debug\Assembly-CSharp.pdb
+A:\SIT 2018\Another Monday\Temp\bin\Debug\Assembly-CSharp.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\Assembly-CSharp.pdb
+A:\SIT 2018\Another Monday\Temp\bin\Debug\nunit.framework.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEditor.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.Advertisements.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.Analytics.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.HoloLens.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.Networking.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.Purchasing.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.TestRunner.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.Timeline.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.UI.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\Unity.Cecil.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\Unity.SerializationLogic.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\Unity.DataContract.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\ExCSS.Unity.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\Unity.UNetWeaver.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\Unity.CecilTools.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.xml
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEditor.xml
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.UI.xml
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.Networking.xml
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.TestRunner.xml
+A:\SIT 2018\Another Monday\Temp\bin\Debug\nunit.framework.xml
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.Timeline.xml
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.HoloLens.xml
+A:\SIT 2018\Another Monday\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+A:\SIT 2018\Another Monday\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+A:\SIT 2018\Another Monday\obj\Debug\Assembly-CSharp.dll
+A:\SIT 2018\Another Monday\obj\Debug\Assembly-CSharp.pdb
+A:\SIT 2018\Another Monday\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Editor.dll
+A:\SIT 2018\Another Monday\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Runtime.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\KdTreeLib.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\pb_Stl.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\Poly2Tri.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\ProBuilderCore-Unity5.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\ProBuilderMeshOps-Unity5.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Editor.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Runtime.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Josiah Lietze\Desktop\Another Monday\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Josiah Lietze\Desktop\Another Monday\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Josiah Lietze\Desktop\Another Monday\obj\Debug\Assembly-CSharp.dll
+C:\Users\Josiah Lietze\Desktop\Another Monday\obj\Debug\Assembly-CSharp.pdb
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\KdTreeLib.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\pb_Stl.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Poly2Tri.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\ProBuilderCore-Unity5.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\ProBuilderMeshOps-Unity5.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Editor.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\TextMeshPro-2017.3-1.0.56-Runtime.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEditor.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.xml
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEditor.xml
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\User\Desktop\new\Another Monday\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\User\Desktop\new\Another Monday\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\new\Another Monday\obj\Debug\Assembly-CSharp.dll
+C:\Users\User\Desktop\new\Another Monday\obj\Debug\Assembly-CSharp.pdb
