@@ -18,14 +18,10 @@ public class BaddieController : MonoBehaviour
     FPController playerScript;
     NavMeshAgent agent;
 
-    public string AnimWalk = "BaddieWalking";
-    public string AnimTrig = "BaddieTriggered";
-    public string AnimShoot = "BaddieShoot";
-
 
     void Start()
     {
-        agent = main.GetComponent<NavMeshAgent>();
+        agent = this.GetComponent<NavMeshAgent>();
         triggered = true;
         anim = GetComponent<Animator>();
         playerScript = player.GetComponent<FPController>();
@@ -36,18 +32,15 @@ public class BaddieController : MonoBehaviour
         transform.LookAt(player.transform.position);
         if (triggered)
         {
-            anim.SetBool(AnimTrig, true);
             //Debug.Log(Vector3.Distance(transform.position, player.transform.position));
             if (Vector3.Distance(transform.position, player.transform.position) <= range)
             {
                 
-                anim.SetBool(AnimWalk, false);
                 agent.destination = transform.position;
                 if (Time.time > nextFire)
                 {
                     float acc = Random.Range(0, 100);
                     nextFire = Time.time + Random.Range(fireRateMin, fireRateMax);
-                    anim.SetTrigger(AnimShoot);
 
                     RaycastHit hit;
                     rayOrigin.transform.LookAt(player.transform.position);
@@ -69,7 +62,6 @@ public class BaddieController : MonoBehaviour
             else
             {
                 agent.destination = player.transform.position;
-                //anim.SetBool(AnimWalk, true);
             }
         }
     }
