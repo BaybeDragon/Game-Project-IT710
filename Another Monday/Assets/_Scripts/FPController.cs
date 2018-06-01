@@ -11,6 +11,8 @@ public class FPController : MonoBehaviour {
     public bool isGrounded;
 	Rigidbody rb;
 
+    public int playerHealth = 100;
+
 	public Transform rayOrigin;
 	public float range = 0.05f;
 
@@ -58,6 +60,16 @@ public class FPController : MonoBehaviour {
 			isGrounded = false;
 		}
 	}
+
+    public void TakeDamage(int dmg)
+    {
+        playerHealth -= dmg;
+        if (playerHealth <= 0)
+        {
+            //death screen
+            Debug.Log("Boi he ded");
+        }
+    }
 
 
 	/*

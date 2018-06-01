@@ -29,7 +29,8 @@ public class BaddieController : MonoBehaviour
 
     void Update()
     {
-        transform.LookAt(player.transform.position);
+        transform.LookAt(new Vector3(player.transform.position.x,this.transform.position.y, player.transform.position.z));
+        
         if (triggered)
         {
             //Debug.Log(Vector3.Distance(transform.position, player.transform.position));
@@ -48,12 +49,13 @@ public class BaddieController : MonoBehaviour
                     if (Physics.Raycast(rayTest, out hit, 100f))
                     {
                         Debug.DrawRay(rayOrigin.transform.position, rayOrigin.transform.forward * 100, Color.blue);
-                        //Debug.Log("Seen");
+                        Debug.Log("Seen");
                         if (hit.collider.tag == "Player")
                         {
-                            if (acc < 80)
+                            if (acc < 100)
                             {
-
+                                Debug.Log("Bang!");
+                                playerScript.TakeDamage(10);
                             }
                         }
                     }
