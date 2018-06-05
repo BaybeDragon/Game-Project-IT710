@@ -52,7 +52,7 @@ public class BaddieController : MonoBehaviour
                         Debug.Log("Seen");
                         if (hit.collider.tag == "Player")
                         {
-                            if (acc < 100)
+                            if (acc < 75)
                             {
                                 Debug.Log("Bang!");
                                 playerScript.TakeDamage(10);
