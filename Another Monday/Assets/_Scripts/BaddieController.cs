@@ -34,7 +34,7 @@ public class BaddieController : MonoBehaviour
         if (triggered)
         {
             //Debug.Log(Vector3.Distance(transform.position, player.transform.position));
-            agent.destination = transform.position;
+            agent.destination = player.transform.position;
             if (Time.time > nextFire)
             {
                 float acc = Random.Range(0, 100);
