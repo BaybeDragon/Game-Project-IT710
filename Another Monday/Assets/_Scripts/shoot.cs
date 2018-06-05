@@ -33,8 +33,6 @@ public class shoot : MonoBehaviour
             else
             {
                 Instantiate(bulletHole[Random.Range(0, bulletHole.Length)], hit.point, Quaternion.FromToRotation(Vector3.forward, hit.normal));
-
-
             }
 
         }

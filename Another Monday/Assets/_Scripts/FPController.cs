@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class FPController : MonoBehaviour {
 
@@ -16,9 +17,12 @@ public class FPController : MonoBehaviour {
 	public Transform rayOrigin;
 	public float range = 0.05f;
 
+    public Text htext;
+
 	// Use this for initialization
 	void Start () {
 		rb = GetComponent<Rigidbody> ();
+        htext.text = playerHealth.ToString();
 	}
 
 	// Update is called once per frame
@@ -48,7 +52,7 @@ public class FPController : MonoBehaviour {
             isWalking = false;
         }
 
-		GroundCheck ();
+		//GroundCheck ();
 	}
 
 	void GroundCheck()
@@ -64,10 +68,13 @@ public class FPController : MonoBehaviour {
     public void TakeDamage(int dmg)
     {
         playerHealth -= dmg;
-        if (playerHealth <= 0)
+        htext.text = playerHealth.ToString();
+
+        if (playerHealth >= 0)
         {
             //death screen
             Debug.Log("Boi he ded");
+
         }
     }
 

@@ -47,7 +47,8 @@ public class PauseMenu : MonoBehaviour
     }//close update
 
     public void LoadMenu()
-    {
+            {
+        Debug.Log("lIAMS MENU SUCKS");
         SceneManager.LoadScene("Menu");
     }
 

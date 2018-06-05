@@ -34,36 +34,29 @@ public class BaddieController : MonoBehaviour
         if (triggered)
         {
             //Debug.Log(Vector3.Distance(transform.position, player.transform.position));
-            if (Vector3.Distance(transform.position, player.transform.position) <= range)
+            agent.destination = transform.position;
+            if (Time.time > nextFire)
             {
-                
-                agent.destination = transform.position;
-                if (Time.time > nextFire)
-                {
-                    float acc = Random.Range(0, 100);
-                    nextFire = Time.time + Random.Range(fireRateMin, fireRateMax);
+                float acc = Random.Range(0, 100);
+                nextFire = Time.time + Random.Range(fireRateMin, fireRateMax);
 
-                    RaycastHit hit;
-                    rayOrigin.transform.LookAt(player.transform.position);
-                    Ray rayTest = new Ray(rayOrigin.transform.position, rayOrigin.transform.forward);
-                    if (Physics.Raycast(rayTest, out hit, 100f))
+                RaycastHit hit;
+                rayOrigin.transform.LookAt(new Vector3(player.transform.position.x, this.transform.position.y, player.transform.position.z));
+                Ray rayTest = new Ray(rayOrigin.transform.position, rayOrigin.transform.forward);
+                if (Physics.Raycast(rayTest, out hit, 100f))
+                {
+                    Debug.DrawRay(rayOrigin.transform.position, rayOrigin.transform.forward * 100, Color.blue);
+                    //Debug.Log("Seen");
+                    if (hit.collider.tag == "Player")
                     {
-                        Debug.DrawRay(rayOrigin.transform.position, rayOrigin.transform.forward * 100, Color.blue);
-                        Debug.Log("Seen");
-                        if (hit.collider.tag == "Player")
+                        if (acc < 75)
                         {
-                            if (acc < 75)
-                            {
-                                Debug.Log("Bang!");
-                                playerScript.TakeDamage(10);
-                            }
+                            Debug.Log("Bang!");
+                            playerScript.TakeDamage(10);
                         }
                     }
+                    Debug.Log(hit.collider.tag);
                 }
-            }
-            else
-            {
-                agent.destination = player.transform.position;
             }
         }
     }
