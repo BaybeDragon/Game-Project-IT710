@@ -21,6 +21,9 @@ GameObject:
   - component: {fileID: 4676331772628090}
   - component: {fileID: 33420905882737840}
   - component: {fileID: 23178022728737124}
+  - component: {fileID: 114052943951440624}
+  - component: {fileID: 65485313739400832}
+  - component: {fileID: 54273821877631370}
   m_Layer: 0
   m_Name: smartphone
   m_TagString: Pickupobject
@@ -84,3 +87,41 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1774795617977582}
   m_Mesh: {fileID: 4300002, guid: 4e9bb637798979a4ca9e30741b7e2c77, type: 3}
+--- !u!54 &54273821877631370
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1774795617977582}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &65485313739400832
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1774795617977582}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0668893, y: 0.0069652307, z: 0.13801868}
+  m_Center: {x: 0, y: 0.0034847578, z: -1.2380345e-17}
+--- !u!114 &114052943951440624
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1774795617977582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a57798564c3724d89ab9180e9c45f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
