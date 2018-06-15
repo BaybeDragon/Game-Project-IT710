@@ -17,7 +17,7 @@ public class endlevel : MonoBehaviour {
 
 	public void OnTriggerEnter (Collider other){
         if(other.tag == "Player")
-			SceneManager.LoadScene ("Menu");
+			SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex + 1);
 
 	}
 }
