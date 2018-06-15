@@ -6,10 +6,18 @@ public class enemyhealth : MonoBehaviour
 {
 
     public float health = 100;
+    Animator anim;
+    enemyhealth hea;
+    BaddieController cont;
+    CapsuleCollider cc;
 
     // Use this for initialization
     void Start()
     {
+        cc = this.GetComponent<CapsuleCollider>();
+        anim = this.GetComponent<Animator>();
+        hea = this.GetComponent<enemyhealth>();
+        cont = this.GetComponent<BaddieController>();
     }
 
     // Update is called once per frame
@@ -17,7 +25,10 @@ public class enemyhealth : MonoBehaviour
     {
         if (health <= 0)
         {
-            Destroy(this.gameObject);
+            Destroy(anim);
+            Destroy(hea);
+            Destroy(cont);
+            Destroy(cc);
         }
     }
 

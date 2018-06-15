@@ -35,6 +35,19 @@ public class BaddieController : MonoBehaviour
         {
             //Debug.Log(Vector3.Distance(transform.position, player.transform.position));
             agent.destination = player.transform.position;
+            if (Vector3.Distance(player.transform.position, this.transform.position) <= 20)
+            {
+                agent.destination = this.transform.position;
+                anim.SetBool("TooClose", true);
+            }
+            else
+            {
+                agent.destination = player.transform.position;
+                anim.SetBool("TooClose", false); 
+            }
+
+
+
             if (Time.time > nextFire)
             {
                 float acc = Random.Range(0, 100);
