@@ -54,12 +54,11 @@ public class BaddieController : MonoBehaviour
                 nextFire = Time.time + Random.Range(fireRateMin, fireRateMax);
 
                 RaycastHit hit;
-                rayOrigin.transform.LookAt(new Vector3(player.transform.position.x, this.transform.position.y, player.transform.position.z));
+                rayOrigin.transform.LookAt(new Vector3(player.transform.position.x,     7, player.transform.position.z));
                 Ray rayTest = new Ray(rayOrigin.transform.position, rayOrigin.transform.forward);
                 if (Physics.Raycast(rayTest, out hit, 100f))
                 {
                     Debug.DrawRay(rayOrigin.transform.position, rayOrigin.transform.forward * 100, Color.blue);
-                    //Debug.Log("Seen");
                     if (hit.collider.tag == "Player")
                     {
                         if (acc < 75)
