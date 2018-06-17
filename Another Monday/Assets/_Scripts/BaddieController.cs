@@ -5,10 +5,9 @@ using UnityEngine.AI;
 
 public class BaddieController : MonoBehaviour
 {
-    public GameObject main;
     public GameObject rayOrigin;
     public GameObject player;
-    public float range = 10;
+    float range = 30;
 
     bool triggered;
     Animator anim;
@@ -17,6 +16,7 @@ public class BaddieController : MonoBehaviour
     private float nextFire = 0f;
     FPController playerScript;
     NavMeshAgent agent;
+
 
 
     void Start()
@@ -35,7 +35,7 @@ public class BaddieController : MonoBehaviour
         {
             //Debug.Log(Vector3.Distance(transform.position, player.transform.position));
             agent.destination = player.transform.position;
-            if (Vector3.Distance(player.transform.position, this.transform.position) <= 20)
+            if (Vector3.Distance(player.transform.position, this.transform.position) <= 21)
             {
                 agent.destination = this.transform.position;
                 anim.SetBool("TooClose", true);
@@ -56,9 +56,9 @@ public class BaddieController : MonoBehaviour
                 RaycastHit hit;
                 rayOrigin.transform.LookAt(new Vector3(player.transform.position.x,     7, player.transform.position.z));
                 Ray rayTest = new Ray(rayOrigin.transform.position, rayOrigin.transform.forward);
-                if (Physics.Raycast(rayTest, out hit, 100f))
+                if (Physics.Raycast(rayTest, out hit, range))
                 {
-                    Debug.DrawRay(rayOrigin.transform.position, rayOrigin.transform.forward * 100, Color.blue);
+                    Debug.DrawRay(rayOrigin.transform.position, rayOrigin.transform.forward * range, Color.blue);
                     if (hit.collider.tag == "Player")
                     {
                         if (acc < 75)
