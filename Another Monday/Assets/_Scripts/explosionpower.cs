@@ -7,7 +7,7 @@ public class explosionpower : MonoBehaviour {
 	public float radius = 5.0f;
 	public float power = 10.0f;
 	private Vector3 explosionPos;
-	public float rechargetime = 10f;
+	public float rechargetime = 2f;
 	public float waittime = 0f;
 
 	// Use this for initialization
