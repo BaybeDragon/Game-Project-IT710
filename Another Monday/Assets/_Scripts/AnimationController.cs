@@ -13,7 +13,6 @@ public class AnimationController : MonoBehaviour {
 	int sprintHash = Animator.StringToHash("Sprint");
 
 	bool holdingHandgun;
-	bool holdingRifle;
 
 	// Use this for initialization
 	void Start ()
@@ -43,21 +42,12 @@ public class AnimationController : MonoBehaviour {
         //weapon swap
         if (Input.GetKeyDown(KeyCode.Tab))
         {
-            if (!holdingHandgun && !holdingRifle)//select handgun
+            if (!holdingHandgun)//select handgun
             {
                 anim.SetLayerWeight(1, 1.0f);
                 holdingHandgun = true;
-                holdingRifle = false;
-                Debug.Log("handgun");
 
-            }
-            else if (!holdingRifle)//select rifle
-            {
-                anim.SetLayerWeight(1, 0.0f);
-                anim.SetLayerWeight(2, 1.0f);
-                holdingHandgun = false;
-                holdingRifle = true;
-                Debug.Log("rifle");
+                Debug.Log("handgun");
 
             }
             else
@@ -65,7 +55,7 @@ public class AnimationController : MonoBehaviour {
                 anim.SetLayerWeight(2, 0.0f);
                 anim.SetLayerWeight(1, 0.0f);
                 holdingHandgun = false;
-                holdingRifle = false;
+
                 Debug.Log("unarmed");
 
             }
