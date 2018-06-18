@@ -14,7 +14,7 @@ public class explosionpower : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		ps.Play ();
+
 	}
 	
 	// Update is called once per frame
