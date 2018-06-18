@@ -17,7 +17,8 @@ public class BaddieController : MonoBehaviour
     FPController playerScript;
     NavMeshAgent agent;
 
-
+    
+    
 
     void Start()
     {

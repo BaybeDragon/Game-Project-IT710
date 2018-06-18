@@ -11,6 +11,9 @@ public class enemyhealth : MonoBehaviour
     BaddieController cont;
     CapsuleCollider cc;
 
+    public endlevel addKill;
+
+
     // Use this for initialization
     void Start()
     {
@@ -25,6 +28,7 @@ public class enemyhealth : MonoBehaviour
     {
         if (health <= 0)
         {
+            addKill.AddKill();
             Destroy(anim);
             Destroy(hea);
             Destroy(cont);

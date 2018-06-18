@@ -30,6 +30,11 @@ public class shoot : MonoBehaviour
                 enemyhealth ehit = hit.collider.GetComponent<enemyhealth>();
                 ehit.TakeDamage(51);
             }
+            else if (hit.collider.tag == "Boss")
+            {
+                BossScript bhit = hit.collider.GetComponent<BossScript>();
+                bhit.TakeDamage(50);
+            }
             else
             {
                 Instantiate(bulletHole[Random.Range(0, bulletHole.Length)], hit.point, Quaternion.FromToRotation(Vector3.forward, hit.normal));
