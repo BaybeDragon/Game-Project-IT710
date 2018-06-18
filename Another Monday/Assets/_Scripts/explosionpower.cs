@@ -10,14 +10,17 @@ public class explosionpower : MonoBehaviour {
 	public float rechargetime = 2f;
 	public float waittime = 0f;
 
+	public ParticleSystem ps;
+
 	// Use this for initialization
 	void Start () {
-
+		ps.Play ();
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown (KeyCode.Q) && waittime < 0) {
+			ps.Play ();
 			explosionPos = transform.position;
 			Collider[] colliders = Physics.OverlapSphere (explosionPos, radius);
 			foreach (Collider hit in colliders) {
