@@ -7,6 +7,7 @@ TagManager:
   - Pickupobject
   - thrown
   - enemy
+  - Boss
   layers:
   - Default
   - TransparentFX
