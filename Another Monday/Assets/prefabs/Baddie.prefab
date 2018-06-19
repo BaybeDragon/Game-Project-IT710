@@ -2551,10 +2551,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc98e3e5524a52a4fbfa33f921436db0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  main: {fileID: 0}
   rayOrigin: {fileID: 1387545737910290}
   player: {fileID: 0}
-  range: 10
   fireRateMin: 0.25
   fireRateMax: 1.5
 --- !u!114 &114371586344231636
