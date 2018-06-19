@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 m_EditorVersion: 2017.3.1f1
-=======
-m_EditorVersion: 2018.1.0f2
->>>>>>> parent of 015a2c61... menus and music
