@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class BossScript : MonoBehaviour {
 
@@ -21,7 +22,7 @@ public class BossScript : MonoBehaviour {
             disret.enabled = false;
             endGame.enabled = true;
             Time.timeScale = 0f;
-			Application.Quit ();
+			SceneManager.LoadScene ("Menu");
         }
 	}
 
