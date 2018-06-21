@@ -1,7 +1,0 @@
-001.00|Boss: Hank your fired go clear your desk, I want you out by four.
-005.00|Awhile Late
-007.00|The Voices: Hank now I know what your thinking but is shooting this place really such a good idea.
-010.00|The Voices: I know those death stares everyones gonna give you on the way are gonna hurt but is this the right thing to do.
-012.00|The Voices: Ah who am I kidding shooting up office spaces is always fun.
-015.00|The Voices: ONWARDS! Oh, do remember they are literal death stares so just keep that in mind.
-018.00|<break>
