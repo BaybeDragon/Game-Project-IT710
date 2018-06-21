@@ -11,15 +11,18 @@ public class explosionpower : MonoBehaviour {
 	public float waittime = 0f;
 
 	public ParticleSystem ps;
+	private AudioSource yaYeet;
 
 	// Use this for initialization
-	void Start () {
-
+	void Start ()
+	{
+		yaYeet = GetComponent<AudioSource> ();
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown (KeyCode.Q) && waittime < 0) {
+			yaYeet.Play ();
 			ps.Play ();
 			explosionPos = transform.position;
 			Collider[] colliders = Physics.OverlapSphere (explosionPos, radius);

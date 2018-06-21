@@ -12,6 +12,13 @@ public class Pickableobject : MonoBehaviour
     private Transform currentTransform;
     private float length;
     public float throwingforce = 5f;
+	private AudioSource yeet;
+
+
+	void Start ()
+	{
+		yeet = GetComponent<AudioSource> ();
+	}
 
     // Update is called once per frame
     void Update()
@@ -28,6 +35,7 @@ public class Pickableobject : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.Mouse1))
         {
+			yeet.Play ();
             RemoveTransform(Hit.rigidbody, Hit.collider, Hit.collider.gameObject);
         }
 

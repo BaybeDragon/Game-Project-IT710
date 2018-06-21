@@ -39,27 +39,29 @@ public class AnimationController : MonoBehaviour {
 			anim.SetTrigger (sprintHash);
 		}
 
+		anim.SetLayerWeight (1, 1.0f);
+
         //weapon swap
-        if (Input.GetKeyDown(KeyCode.Tab))
-        {
-            if (!holdingHandgun)//select handgun
-            {
-                anim.SetLayerWeight(1, 1.0f);
-                holdingHandgun = true;
-
-                Debug.Log("handgun");
-
-            }
-            else
-            {
-                anim.SetLayerWeight(2, 0.0f);
-                anim.SetLayerWeight(1, 0.0f);
-                holdingHandgun = false;
-
-                Debug.Log("unarmed");
-
-            }
-        }
+        //if (Input.GetKeyDown(KeyCode.Tab))
+        //{
+        //   if (!holdingHandgun)//select handgun
+        //  {
+        //        anim.SetLayerWeight(1, 1.0f);
+          //      holdingHandgun = true;
+		//
+          //      Debug.Log("handgun");
+		//
+          //  }
+            //else
+            //{
+         //       anim.SetLayerWeight(2, 0.0f);
+           //     anim.SetLayerWeight(1, 0.0f);
+             //   holdingHandgun = false;
+//
+  //              Debug.Log("unarmed");
+		//
+          //  }
+        //}
 	}
 
 	void FixedUpdate () 

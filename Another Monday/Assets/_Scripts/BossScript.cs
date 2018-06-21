@@ -21,6 +21,7 @@ public class BossScript : MonoBehaviour {
             disret.enabled = false;
             endGame.enabled = true;
             Time.timeScale = 0f;
+			Application.Quit ();
         }
 	}
 

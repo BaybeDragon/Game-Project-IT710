@@ -7,11 +7,12 @@ public class shoot : MonoBehaviour
 
     public GameObject[] bulletHole;
     public float range;
+	private AudioSource gunAudio;
 
     // Use this for initialization
     void Start()
     {
-
+		gunAudio = GetComponent<AudioSource> ();
     }
 
     // Update is called once per frame
@@ -24,6 +25,7 @@ public class shoot : MonoBehaviour
         if (Input.GetButtonDown("Fire1") && Physics.Raycast(transform.position, fwd, out hit, range))
         {
             Debug.Log("We hit something");
+			gunAudio.Play ();
             if (hit.collider.tag == "enemy")
             {
                 Debug.Log(hit.collider.tag);
